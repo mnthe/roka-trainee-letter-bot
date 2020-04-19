@@ -1,0 +1,30 @@
+{
+    "name": "roka-trainee-letter-bot",
+    "version": "0.0.1",
+    "description": "ROKA Trainee Letter Bot",
+    "main": "src/index.ts",
+    "scripts": {
+        "start": "ts-node src/index.ts --"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mnthe/roka-trainee-letter-bot.git"
+    },
+    "keywords": [
+        "roka"
+    ],
+    "author": "mnthe",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mnthe/roka-trainee-letter-bot/issues"
+    },
+    "homepage": "https://github.com/mnthe/roka-trainee-letter-bot#readme",
+    "dependencies": {
+        "love-to-soldier": "^1.0.0",
+        "ts-node": "^8.8.2",
+        "typescript": "^3.8.3"
+    },
+    "devDependencies": {
+        "@types/node": "^13.13.0"
+    }
+}
